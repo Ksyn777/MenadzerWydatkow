@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>alltransactions</class>
+ <widget class="QWidget" name="alltransactions">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>483</width>
+    <height>479</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableView" name="allTableView">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>421</width>
+     <height>401</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBoxFiltruj">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>10</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Zakupy</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Wpływ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Wydatek</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Wyjścia</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Opłaty</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Raty</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Wszystko</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="filtrujButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>10</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Filtruj</string>
+   </property>
+  </widget>
+  <widget class="QLCDNumber" name="lcdNumberFiltruj">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

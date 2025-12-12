@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-566675ca1c7059a0aa2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MenadzerWydatkow",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MenadzerWydatkow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MenadzerWydatkow-Debug-623461a6a954049969b4.json",
+					"name" : "MenadzerWydatkow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MenadzerWydatkow_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MenadzerWydatkow_autogen-Debug-87be62657cf7ec139d71.json",
+					"name" : "MenadzerWydatkow_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MenadzerWydatkow_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MenadzerWydatkow_autogen_timestamp_deps-Debug-af8bf91b72961f4b3f18.json",
+					"name" : "MenadzerWydatkow_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

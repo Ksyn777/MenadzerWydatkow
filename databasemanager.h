@@ -13,7 +13,7 @@ class DatabaseManager : public QObject
     Q_OBJECT
 
 private:
-    QSqlDatabase db; /
+    QSqlDatabase db;
     explicit DatabaseManager(QObject *parent = nullptr);
 
     void initTables();

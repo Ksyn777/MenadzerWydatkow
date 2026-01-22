@@ -41,6 +41,29 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/*.cpp")
 set(OLD_GLOB
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/addtransactiondialog.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/alltransactions.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_addtransactiondialog.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_alltransactions.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_colormodel.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_databasemanager.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_editdialog.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_globals.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_mainwindow.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/moc_removedialog.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/EWIEGA46WW/qrc_resources.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/mocs_compilation.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/category.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/colormodel.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/databasemanager.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/editdialog.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/globals.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/main.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/mainwindow.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/removedialog.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/transaction.cpp"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/transactionrepository.cpp"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/addtransactiondialog.cpp"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/alltransactions.cpp"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
@@ -82,6 +105,23 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/*.h")
 set(OLD_GLOB
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/addtransactiondialog.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/alltransactions.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/include/ui_AddTransactionDialog.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/include/ui_alltransactions.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/include/ui_editdialog.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/include/ui_mainwindow.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/include/ui_removedialog.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/moc_predefs.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/category.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/colormodel.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/databasemanager.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/editdialog.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/globals.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/mainwindow.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/removedialog.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/transaction.h"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/transactionrepository.h"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/addtransactiondialog.h"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/alltransactions.h"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenadzerWydatkow_autogen/include/ui_AddTransactionDialog.h"
@@ -180,6 +220,7 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/*.qrc")
 set(OLD_GLOB
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/resources.qrc"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/resources.qrc"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -190,6 +231,7 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/*.qs")
 set(OLD_GLOB
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.qs"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.qs"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -201,6 +243,11 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/*.ui")
 set(OLD_GLOB
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/AddTransactionDialog.ui"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/AddTransactionDialog.ui"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/alltransactions.ui"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/editdialog.ui"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/mainwindow.ui"
+  "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/MenadzerWydatkow/removedialog.ui"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/alltransactions.ui"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/editdialog.ui"
   "C:/Users/Lenovo-X260/Desktop/QTproject/MenadzerWydatkow/mainwindow.ui"
